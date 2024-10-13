@@ -1,0 +1,5 @@
+mon	english	algebra	tennis	korean
+tue	history	english	biology	algebra
+wed	korean	python	algebra
+thur	biology	korean	philosophy
+fri	physics	python

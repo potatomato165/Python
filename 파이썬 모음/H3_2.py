@@ -1,0 +1,7 @@
+a=int(input("Enter a : "))
+b=int(input("Enter b : "))
+c=int(input("Enter c : "))
+x1=(-b+(b**2-4*a*c)**(1/2))/(2*a)
+x2=(-b-(b**2-4*a*c)**(1/2))/(2*a)
+print("x1 : {:+.2f}".format(x1))
+print("x2 : {:+.2f}".format(x2))

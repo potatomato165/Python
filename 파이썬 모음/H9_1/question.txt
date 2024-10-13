@@ -1,0 +1,31 @@
++++++
+What is your favorite color?
+Blue
+White
+Green
+Pink
++++++
+Who is your favorite writer?
+Leo Tolstoy
+Paulo Coelho
+Milan Kundera
++++++
+What is your hobby?
+Reading novels
+Playing tennis
+Watching movies
+Swimming
+Skiing
++++++
+Where do you want to travel?
+Spain
+Czech
+Portugal
+Turkey
+Laos
++++++
+What is your favorite Korean food?
+Bibimbap
+Bulgogi
+Chimaek
+Kimchi
